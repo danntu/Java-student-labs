@@ -1,3 +1,5 @@
+package old_tasks;
+
 import java.util.Scanner;
 public class Esep3 {
      public static void main(String[] args)

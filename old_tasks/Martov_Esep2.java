@@ -1,4 +1,4 @@
-
+package old_tasks;
 
 import java.util.Scanner;
 

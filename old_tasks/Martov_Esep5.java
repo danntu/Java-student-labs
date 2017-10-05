@@ -1,3 +1,4 @@
+package old_tasks;
 
 import java.util.Random;
 import java.util.Scanner;
