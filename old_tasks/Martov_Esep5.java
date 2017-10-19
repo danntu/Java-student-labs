@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 
-public class Esep5 {
+public class Martov_Esep5 {
     public static void main(String args[]){
         int m,n;
         int A[][]=new int[100][100];

@@ -3,7 +3,7 @@ package old_tasks;
 import java.util.Scanner;
 
 
-public class Esep2 {
+public class Martov_Esep2 {
     public static void main(String[] args)
     {
         double a[] = new double[10];
