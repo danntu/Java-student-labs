@@ -1,6 +1,7 @@
 class Zadacha1{
     int a;
     int b;
+    int c;
 
     Zadacha1(int a, int b){
         this.a=a;
