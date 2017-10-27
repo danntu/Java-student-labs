@@ -13,6 +13,7 @@ public class Zadacha3 {
     public static void main(String[] args) {
         Zadacha3 ob = new Zadacha3();
         ob.setA(5);
+
         System.out.println("Объем куба равна "+ob.getVolume());
         System.out.println("Площадь боковой поверхности равна "+ob.getArea());
     }
