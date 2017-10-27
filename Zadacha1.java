@@ -1,7 +1,18 @@
-class Zadacha1{
+/**
+ *
+ @author  Daniyar Myrzakanov
+ @version 1.0
+ */
+public class Zadacha1{
     int a;
     int b;
     int c;
+
+    /**
+     *
+     * @param a
+     * @param b
+     */
 
     Zadacha1(int a, int b){
         this.a=a;
