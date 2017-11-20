@@ -32,12 +32,12 @@ public class InnerClass {
 
         Random r =  new Random();
         System.out.println(Math.abs(r.nextInt()%100));
-
+/*
         float f = 102.55f;
         DecimalFormat decimalFormat = new DecimalFormat("#.#");
         float twoDigitsF = Float.valueOf(decimalFormat.format(f));
         System.out.println(twoDigitsF);
 
-
+*/
     }
 }
